@@ -107,8 +107,7 @@ npm start
 
 ## 🧠 Team
 
-Made with ❤️ by **\[Your Name]**
-Mentored by **\[Mentor Name, if applicable]**
+Made by **Maithili Badhan**
 MIT Hackathon 2025 — Rapid Application Building Track
 
 ---
