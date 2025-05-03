@@ -53,13 +53,13 @@ Today’s learners struggle to stay engaged or find time to learn due to informa
 
 ## 🧩 Tech Stack
 
-| Layer        | Tools Used                      |
-|--------------|----------------------------------|
-| Frontend     | React, Tailwind CSS              |
-| Backend      | Flask (Python), Flask-CORS       |
-| AI Text Gen  | OpenAI API (GPT-3.5 / GPT-4)     |
-| TTS          | Google TTS / gTTS (fallbacks)    |
-| Storage      | Local (MVP), cloud-ready         |
+| Layer        | Tools Used                          |
+|--------------|--------------------------------------|
+| Frontend     | React, Tailwind CSS                  |
+| Backend      | Flask (Python), Flask-CORS           |
+| AI Text Gen  | HuggingFace (GPT-2)                  |
+| TTS          | gTTS (Google Text-to-Speech)         |
+| Storage      | Local (for MVP), cloud-ready         |
 
 ---
 
